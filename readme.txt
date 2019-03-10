@@ -2,7 +2,7 @@
 is the results of data encoding that were analyzed by the MAXQDA tool. We encoded the work report data using Grounded Theory. The file can be opened by MAXQDA 12 or higher versions, which are available at https://www.maxqda.com/ for download. You may also use the free 14-day trial version of MAXQDA 2018, which is available at https://www.maxqda.com/trial for download.
 
 - Projects information.docx
-provides the list of the projects selected by each group with their descriptions (in Chinese).
+provides the list of the projects selected by each group with their descriptions (in Chinese). The names and IDs of the students in each group were removed due to privacy concern.
 
 - RE Decision questionnaire.pdf
 is the questionnaire about the decision-making process during the RE course project.
