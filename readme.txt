@@ -15,3 +15,6 @@ records the project experience of each student (in Chinese). The names and IDs o
 
 - Work Report template.pdf
 is the work report template for documenting the decision-making process during the RE course project.
+
+- Figures of cumulative frequencies of the answers to survey questions related to the five RQs.pdf
+shows a stacked bar chart presenting cumulative percentage frequencies of answers to the single choice survey questions in the five RE activities.
